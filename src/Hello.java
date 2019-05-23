@@ -8,7 +8,7 @@ public class Hello {
         int numOfTask = scan.nextInt();
         scan.close();
         if (numOfTask==1){
-            System.out.println("First task");
+            System.out.println("You have to install all programs you need");
         }else if (numOfTask==2){
             System.out.println("Second task");
         }else if (numOfTask==3){
